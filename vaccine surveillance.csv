@@ -1,4 +1,4 @@
-Age,Date,Type,Total ,Unlinked* ,Not vaccinated ,Received one dose ,"Received one dose, ",Second dose ?14 days ,Rates among persons with 2 doses,Rates among persons not vaccinated (NIMS denominator)
+Age,Date,Type,Total ,Unlinked,Not vaccinated,Received one dose 1-20 days before specimen date,"Received one dose, 21 days or more before specimen date",Second dose 14 days or more before specimen date,Rates per 100k among persons with 2 doses,Rates per 100k among persons not vaccinated (NIMS denominator)
 Under 18 ,wk 32-35,Cases,"167,832","15,901","141,676","8,132","1,366",757,476,"1,192.90"
 18-29 ,wk 32-35,Cases,"176,392","19,529","53,187","4,598","66,545","32,533",711.1,"1,520.80"
 30-39 ,wk 32-35,Cases,"113,373","12,452","33,986","1,497","22,434","43,004",782.2,"1,143.90"
